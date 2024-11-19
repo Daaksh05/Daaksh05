@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daakshayani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **cloud**
+- 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **cloud**
 
-- 👯 I’m looking to collaborate on **cloud projects**
+- 👯 I’m looking to collaborate on **react projects**
 
-- 🤝 I’m looking for help with **Devops**
+- 🤝 I’m looking for help with **real time projects**
 
 - 📫 How to reach me **daakshayanidaakahayani@gmail.com**
 
