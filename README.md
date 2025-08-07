@@ -1,23 +1,91 @@
-<h1 align="center">Hi 👋, I'm Daakshayani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Daakshayani Portfolio Website
 
-- 🔭 I’m currently working on **web development**
+A modern, responsive portfolio website showcasing skills, experience, and achievements as an IT student and developer.
 
-- 🌱 I’m currently learning **cloud**
+## Features
 
-- 👯 I’m looking to collaborate on **react projects**
+- **Responsive Design**: Fully responsive layout that works on all devices
+- **Modern UI/UX**: Clean, professional design with smooth animations
+- **Interactive Elements**: Hover effects, smooth scrolling, and dynamic content
+- **Mobile-Friendly**: Collapsible navigation menu for mobile devices
+- **Performance Optimized**: Fast loading with efficient CSS and JavaScript
 
-- 🤝 I’m looking for help with **real time projects**
+## Sections
 
-- 📫 How to reach me **daakshayanidaakahayani@gmail.com**
+1. **Hero Section**: Eye-catching introduction with call-to-action buttons
+2. **About**: Education background and personal summary
+3. **Experience**: Timeline of internships and current roles
+4. **Skills**: Technical skills organized by categories
+5. **Contact**: Easy-to-find contact information and links
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Files Structure
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+```
+portfolio/
+├── index.html          # Main HTML file
+├── styles.css          # CSS styles and responsive design
+├── script.js           # JavaScript functionality
+└── README.md           # This file
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daaksh05&show_icons=true&locale=en&layout=compact" alt="daaksh05" /></p>
+## How to Use
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daaksh05&show_icons=true&locale=en" alt="daaksh05" /></p>
+1. **Local Development**: Simply open `index.html` in your web browser
+2. **Live Server**: Use a local server (like Live Server extension in VS Code) for best experience
+3. **Web Hosting**: Upload all files to your web hosting service
+
+## Customization
+
+### Personal Information
+- Update contact details in the HTML file
+- Modify the hero section text to match your personal brand
+- Add or remove experience items in the timeline
+
+### Styling
+- Change color scheme by modifying CSS variables
+- Adjust fonts by updating the Google Fonts imports
+- Customize animations by editing the CSS animations and JavaScript
+
+### Content
+- Add new sections by following the existing HTML structure
+- Include additional skills or certifications as needed
+- Update social media links and contact information
+
+## Technologies Used
+
+- **HTML5**: Semantic markup for content structure
+- **CSS3**: Modern styling with Flexbox and Grid
+- **JavaScript**: Interactive features and animations
+- **Font Awesome**: Icons for enhanced visual appeal
+- **Google Fonts**: Professional typography with Inter font family
+
+## Browser Support
+
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+- Mobile browsers (iOS Safari, Chrome Mobile)
+
+## Performance Features
+
+- Optimized images and icons
+- Efficient CSS with minimal redundancy
+- JavaScript optimizations for smooth animations
+- Responsive images for different screen sizes
+
+## Deployment
+
+You can deploy this website to any static hosting service:
+
+- GitHub Pages
+- Netlify
+- Vercel
+- Traditional web hosting
+
+Simply upload the files to your hosting provider's public directory.
+
+---
+
+**Contact**: daakshayanidaakshayani@gmail.com  
+**LinkedIn**: [linkedin.com/in/daakshayani2405](https://www.linkedin.com/in/daakshayani2405)
