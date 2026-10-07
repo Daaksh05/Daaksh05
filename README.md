@@ -68,6 +68,14 @@ Working across:
 - LLM security
 - Intelligent automation
 
+### 🛡️ Nexus Aegis
+
+A security-focused AI system being built under **QuantyNex**, exploring how AI can improve security, monitoring, reasoning, and automated response.
+
+The project focuses on building intelligent security workflows that can analyze signals, reason over potential risks, and support automated security decisions.
+
+**Focus:** AI Security · Agentic AI · LLMs · Threat Intelligence · Intelligent Automation
+
 ---
 
 ## 🏆 Hackathon Projects
