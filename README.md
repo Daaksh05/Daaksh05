@@ -1,31 +1,139 @@
 # Daakshayani Senthilkumar
 
-**AI Systems Engineer** — building AI agents, LLM systems, and MLOps pipelines that ship, not demo.
+### AI Systems Engineer | AI Product Builder
 
-Co-founder & CTO at **Alchemy AI Systems** and **QuantyNex**. Incoming MSc Artificial Intelligence Systems, EPITA.
+I build **AI agents, LLM systems, intelligent automation, and production-oriented AI products** that go beyond proof-of-concept demos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-daakshayani2405-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daakshayani2405)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ai--engineer--portfolio-000000?logo=vercel&logoColor=white)](https://ai-engineer-portfolio-three.vercel.app)
-[![Alchemy AI Systems](https://img.shields.io/badge/Alchemy_AI_Systems-alchemyaisystems.com-6C4CE0)](https://www.alchemyaisystems.com)
+Currently pursuing an **MSc in Artificial Intelligence Systems at EPITA, Paris**, while building AI systems and products with **Alchemy AI Systems** and **QuantyNex**.
+
+> **Building AI systems that think, act, and ship.**
 
 ---
 
-## What I do
+## 🧠 What I Build
 
-I build production AI systems — not proof-of-concept notebooks. Most of my work is agentic: pipelines that read, decide, and act with minimal human-in-the-loop, running on Python, Claude, and LLM APIs.
+My work focuses on:
 
-- **Alchemy AI Systems** (Co-founder & CTO) — build and run the AI delivery pipeline for lead generation, content repurposing, and GEO/SEO for B2B clients. Proof-before-pitch model: every prospect gets a real demo before a contract exists.
-- **QuantyNex** (Co-founder & CTO) — AI products and agents studio, building AI agents end-to-end alongside co-founders Linghuraj (CEO) and Sumanth (COO).
-- **ProcureIQ Atlas** — designed and built the AI-powered supplier intelligence engine: supplier discovery, spec extraction, quote comparison, RFQ management, and delivery tracking, covering the full quote-to-delivery cycle.
+- 🤖 **AI Agents** — autonomous systems that reason, use tools, and take action
+- 🧠 **Generative AI & LLM Systems** — building applications around modern language models
+- 🔐 **LLM & Agent Security** — behavioral analysis, contextual risk detection, and action interception
+- ⚙️ **MLOps** — model pipelines, evaluation, deployment, and monitoring
+- 🏗️ **AI Products** — turning AI concepts into usable, production-oriented systems
+- 🔬 **Applied AI** — experimenting with emerging AI architectures and intelligent workflows
 
-## Currently
+---
 
-Joining EPITA's MSc in Artificial Intelligence Systems to deepen the theoretical foundations behind the agentic systems I've been building hands-on — model architecture, MLOps, and applied ML at scale.
+## 🚀 Currently Building
 
-**Open to full-time AI/ML engineering and applied research roles**, alongside continued part-time involvement in Alchemy AI Systems and QuantyNex.
+### Alchemy AI Systems
 
-## Connect
+Building AI-powered systems across:
 
-- LinkedIn: [in/daakshayani2405](https://www.linkedin.com/in/daakshayani2405)
-- Portfolio: [ai-engineer-portfolio-three.vercel.app](https://ai-engineer-portfolio-three.vercel.app)
-- Credly: [credly.com/users/daakshayani-senthilkumar](https://www.credly.com/users/daakshayani-senthilkumar)
+- Lead generation
+- Content repurposing
+- SEO / AEO / GEO
+- AI-powered automation
+- AI visibility
+- Website intelligence
+
+I work on the technical architecture, AI delivery pipeline, engineering, and QA of AI-powered solutions.
+
+### CommerceReady AI
+
+An AI-powered e-commerce compliance and visibility intelligence platform designed for:
+
+- AI search engines
+- Answer engines
+- Autonomous shopping agents
+- E-commerce compliance
+- Competitor intelligence
+- Automated recommendations and fixes
+- Continuous monitoring
+
+**Tech:** Next.js · TypeScript · PostgreSQL · Prisma · Redis · BullMQ · Claude · OpenRouter
+
+---
+
+### QuantyNex
+
+An AI product studio focused on building **AI agents and AI-native products** that turn manual workflows into autonomous, production-ready systems.
+
+Working across:
+
+- Generative AI
+- Agentic AI
+- LLM systems
+- MLOps
+- Cybersecurity
+- LLM security
+- Intelligent automation
+
+---
+
+## 🏆 Hackathon Projects
+
+### 🛡️ SentraFlow — NVIDIA Hackathon
+
+**AI Agent Security & Behavioral Risk Detection**
+
+A security layer for AI agents that analyzes agent behavior, contextual risk, and actions before they are executed.
+
+#### Key Components
+
+- Agent behavioral trajectory analysis
+- Contextual risk analysis
+- LLM-powered security reasoning
+- Agent action interception
+- Runtime decision enforcement
+
+**Tech:** Python · LLMs · NVIDIA AI · Agentic AI · Security
+
+🔗 [Repository](https://github.com/Daaksh05/sentraflow-ai-agent-security)
+
+---
+
+### 🏭 ForgeGuard AI — AMD Developer Hackathon
+
+**AI-Powered Industrial Monitoring & Maintenance Intelligence**
+
+A multimodal industrial monitoring system combining:
+
+- Computer vision
+- Machine sensor data
+- Maintenance documentation
+- RAG-based knowledge retrieval
+- Visual evidence analysis
+- AI-assisted maintenance reasoning
+
+The system is designed to detect machine problems, understand supporting evidence, and connect observations with relevant maintenance knowledge.
+
+**Tech:** Python · Computer Vision · RAG · LLMs · FastAPI · AI Agents
+
+🔗 [Repository](https://github.com/Daaksh05/forgeguard-ai)
+
+---
+
+## 🏗️ Selected AI Systems
+
+### ProcureIQ Atlas
+
+AI-powered procurement intelligence for industrial machinery.
+
+Designed and built the supplier intelligence engine covering the complete **quote-to-delivery** workflow:
+
+```text
+Supplier Discovery
+        ↓
+Specification Extraction
+        ↓
+Quote Comparison
+        ↓
+RFQ Management
+        ↓
+Order Management
+        ↓
+Production Tracking
+        ↓
+Quality Control
+        ↓
+Delivery
