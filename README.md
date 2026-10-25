@@ -123,10 +123,8 @@ Aegis Nexus	Open-source AI safety, agent evaluation, and runtime risk monitoring
 
 
 Major initiatives
-⚡ QuantyNex
-QuantyNex is a key part of my product-building journey, centered on AI agents and AI-native products. The goal is to explore how intelligent systems can become useful, real-world products rather than isolated demos.
-🛡️ Aegis Nexus
-Aegis Nexus is an open-source AI safety platform focused on modular safety evaluation and agentic-system safeguards. Its described areas include DeceptionShield for probing and containment, AgentForge for multi-step agent risk, and EvalForge for configurable evaluations. The repository also explores verifiable integrity and runtime monitoring.
+⚡ QuantyNex is a key part of my product-building journey, centered on AI agents and AI-native products. The goal is to explore how intelligent systems can become useful, real-world products rather than isolated demos.
+🛡️ Aegis Nexus is an open-source AI safety platform focused on modular safety evaluation and agentic-system safeguards. Its described areas include DeceptionShield for probing and containment, AgentForge for multi-step agent risk, and EvalForge for configurable evaluations. The repository also explores verifiable integrity and runtime monitoring.
 Technology toolkit
 AI, machine learning & data
 <p>
