@@ -1,229 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,50:0AFF9D,100:FF00E5&height=260&section=header&text=DAAKSHAYANI%20SENTHILKUMAR&fontSize=44&fontColor=05060f&animation=twinkling&fontAlignY=38&desc=AI%20SYSTEMS%20ENGINEER%20%2F%2F%20AI%20PRODUCT%20BUILDER&descSize=18&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:06B6D4&height=220&section=header&text=Daakshayani%20Senthilkumar&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=AI%20SYSTEMS%20%7C%20AGENTIC%20AI%20%7C%20AI%20SECURITY&descSize=16&descAlignY=60" width="100%" alt="Daakshayani Senthilkumar — AI Systems, Agentic AI, AI Security" />
 
 <a href="https://github.com/Daaksh05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F0FF&background=05060F&center=true&vCenter=true&width=800&height=50&lines=%3E+initializing+agentic+AI+systems...;%3E+securing+LLM+agents+at+runtime...;%3E+shipping+production-grade+AI+products...;%3E+Paris%2C+France+%7C+MSc+AI+Systems+%40+EPITA" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=45&lines=Building+AI+systems+that+do+more+than+generate+text.;Exploring+agentic+AI+and+runtime+security.;Turning+complex+ideas+into+useful+products." alt="Typing animation" />
 </a>
 
-<br/><br/>
-
-![Status](https://img.shields.io/badge/STATUS-ONLINE-0AFF9D?style=for-the-badge&labelColor=05060f)
-![Location](https://img.shields.io/badge/LOC-PARIS%2C_FR-00F0FF?style=for-the-badge&labelColor=05060f)
-![EPITA](https://img.shields.io/badge/MSc-AI_SYSTEMS_%40_EPITA-FF00E5?style=for-the-badge&labelColor=05060f)
-
-[![GitHub](https://img.shields.io/badge/GITHUB-Daaksh05-00F0FF?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=05060f)](https://github.com/Daaksh05)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-FF00E5?style=for-the-badge&logo=linkedin&logoColor=FF00E5&labelColor=05060f)](https://www.linkedin.com/)
-[![Projects](https://img.shields.io/badge/EXPLORE-PROJECTS-0AFF9D?style=for-the-badge&logo=gitbook&logoColor=0AFF9D&labelColor=05060f)](https://github.com/Daaksh05?tab=repositories)
+<p>
+  <a href="https://github.com/Daaksh05?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Paris%2C%20France-0891B2?style=for-the-badge" alt="Based in Paris, France" />
+</p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00E5&height=40&section=header&animation=fadeIn" width="100%" alt=""/>
+About me
+I'm an AI systems engineer and product builder interested in creating practical, reliable AI systems—not just model demos. My work spans agentic AI, AI security, multimodal systems, and intelligent automation.
+- 🎓 Currently: MSc Artificial Intelligence Systems at EPITA, France
+- 🧠 Exploring: Agentic AI, LLM systems, runtime risk detection, RAG, and multimodal AI
+- 🛠️ Building: AI products that connect reasoning with evidence, workflows, and useful actions
+- 🌱 Approach: Understand → Build → Evaluate → Improve
+Featured projects
+<div align="center">
 
-## `01` // SYSTEM OVERVIEW
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```yaml
-> whoami
-name: Daakshayani Senthilkumar
-role: AI Systems Engineer & AI Product Builder
-location: Paris, France
-education: MSc Artificial Intelligence Systems — EPITA
+🛡️ SentraFlow
+AI Agent Security & Behavioral Risk Detection
 
-focus:
-  - Agentic AI & LLM Systems
-  - AI Security & Runtime Risk Detection
-  - Production-Oriented AI Products
-  - Intelligent Automation
-  - Multimodal AI & MLOps
+A security layer that examines agent behavior, assesses contextual risk, and intercepts potentially unsafe actions before execution.
 
-approach: "Understand → Build → Evaluate → Ship"
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=40&section=header&animation=fadeIn" width="100%" alt=""/>
-
-## `02` // PRODUCT PORTFOLIO
-
-> AI systems and products designed to solve practical problems across automation, e-commerce, procurement, and security.
-
-<details>
-<summary><strong>🧠 Alchemy AI Systems — AI Growth & Automation</strong></summary>
-
-<br/>
-
-Built AI-powered solutions for lead generation, content repurposing, SEO/AEO/GEO, website intelligence, AI visibility, and intelligent automation.
-
-**Focus:** `AI Agents` · `Automation Pipelines` · `AI-Powered Growth`
-
-</details>
-
-<details>
-<summary><strong>🛍️ CommerceReady AI — E-commerce Intelligence</strong></summary>
-
-<br/>
-
-An AI-powered platform focused on e-commerce compliance, AI search visibility, autonomous shopping agents, competitor intelligence, continuous monitoring, and automated recommendations.
-
-**Tech:** `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Redis` `BullMQ` `Claude` `OpenRouter`
-
-</details>
-
-<details>
-<summary><strong>⚙️ ProcureIQ Atlas — Procurement Intelligence</strong></summary>
-
-<br/>
-
-An AI-powered procurement system designed to streamline supplier discovery, specification extraction, quote comparison, RFQ management, order tracking, quality control, and delivery.
-
-**Workflow:** `Supplier Discovery` ➜ `Quote Comparison` ➜ `Order Management` ➜ `Delivery`
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0AFF9D&height=40&section=header&animation=fadeIn" width="100%" alt=""/>
-
-## `03` // CURRENT EXPLORATIONS
-
-| 🔹 Initiative | 🔹 Focus |
-|---|---|
-| ⚡ **QuantyNex** | AI agents and AI-native products |
-| 🛡️ **Nexus Aegis** | Intelligent security monitoring and automated response |
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AFF9D,100:FF00E5&height=40&section=header&animation=fadeIn" width="100%" alt=""/>
-
-## `04` // FEATURED AI SYSTEMS
-
-### 🛡️ SentraFlow
-**AI Agent Security & Behavioral Risk Detection**
-
-A security layer for AI agents that analyzes behavioral trajectories, evaluates contextual risks, and intercepts potentially unsafe actions before execution.
-
-```text
-[agent action] ──▶ [trajectory analysis] ──▶ [risk scoring] ──▶ [LLM reasoning]
-                                                                    │
-                                   [ALLOW] ◀── [adaptive enforcement] ──▶ [BLOCK]
-```
-
-**Core components**
-- Agent behavioral trajectory analysis
-- Contextual risk assessment
-- LLM-powered security reasoning
+What it explores
+- Behavioral trajectory analysis
+- Context-aware risk scoring
+- LLM-assisted security reasoning
 - Runtime action interception
 - Adaptive response enforcement
+Python Agentic AI LLMs Runtime Security
 
-`Python` `LLMs` `Agentic AI` `Runtime Security`
+<a href="https://github.com/Daaksh05/sentraflow-ai-agent-security">
+  <img src="https://img.shields.io/badge/Explore%20Repository-View%20on%20GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore SentraFlow repository" />
+</a>
 
-[![Repo](https://img.shields.io/badge/↗_VIEW_REPOSITORY-sentraflow-00F0FF?style=for-the-badge&labelColor=05060f)](https://github.com/Daaksh05/sentraflow-ai-agent-security)
+</td>
+<td width="50%" valign="top">
 
----
+🏭 ForgeGuard AI
+Industrial Monitoring & Maintenance Intelligence
 
-### 🏭 ForgeGuard AI
-**Multimodal Industrial Monitoring & Maintenance Intelligence**
+A multimodal industrial AI concept combining visual evidence, machine telemetry, and maintenance documentation to help identify possible failures and support evidence-based maintenance decisions.
 
-An AI-powered industrial monitoring system combining visual evidence, machine sensor data, and maintenance documentation to identify potential failures and support evidence-based maintenance decisions.
-
-```text
-[camera feed] ─┐
-[sensor data] ─┼──▶ [multimodal fusion] ──▶ [RAG over manuals] ──▶ [maintenance recommendation]
-[maint. docs] ─┘
-```
-
-**Core components**
-- Computer vision and visual evidence analysis
+What it explores
+- Computer vision and visual evidence
 - Industrial sensor telemetry
 - Maintenance knowledge retrieval
 - RAG-based contextual reasoning
 - AI-assisted maintenance recommendations
+Python Computer Vision RAG FastAPI AI Agents
 
-`Python` `Computer Vision` `RAG` `FastAPI` `AI Agents`
+<a href="https://github.com/Daaksh05/forgeguard-ai">
+  <img src="https://img.shields.io/badge/Explore%20Repository-View%20on%20GitHub-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore ForgeGuard AI repository" />
+</a>
 
-[![Repo](https://img.shields.io/badge/↗_VIEW_REPOSITORY-forgeguard--ai-FF00E5?style=for-the-badge&labelColor=05060f)](https://github.com/Daaksh05/forgeguard-ai)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=40&section=header&animation=fadeIn" width="100%" alt=""/>
+🧩 Alchemy AI Systems
+AI Growth & Automation
 
-## `05` // TECHNOLOGY MATRIX
+AI-powered solutions for lead generation, content repurposing, SEO/AEO/GEO, website intelligence, AI visibility, and workflow automation.
 
-### ▸ Programming Languages
-![Python](https://img.shields.io/badge/Python-05060f?style=for-the-badge&logo=python&logoColor=00F0FF&labelColor=05060f)
-![Java](https://img.shields.io/badge/Java-05060f?style=for-the-badge&logo=openjdk&logoColor=00F0FF&labelColor=05060f)
-![JavaScript](https://img.shields.io/badge/JavaScript-05060f?style=for-the-badge&logo=javascript&logoColor=0AFF9D&labelColor=05060f)
-![TypeScript](https://img.shields.io/badge/TypeScript-05060f?style=for-the-badge&logo=typescript&logoColor=00F0FF&labelColor=05060f)
-![C](https://img.shields.io/badge/C-05060f?style=for-the-badge&logo=c&logoColor=FF00E5&labelColor=05060f)
+AI Agents Automation AI Product Building
+</td>
+<td width="50%" valign="top">
 
-### ▸ AI, Machine Learning & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-05060f?style=for-the-badge&logo=pytorch&logoColor=FF00E5&labelColor=05060f)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-05060f?style=for-the-badge&logo=scikitlearn&logoColor=0AFF9D&labelColor=05060f)
-![spaCy](https://img.shields.io/badge/spaCy-05060f?style=for-the-badge&logo=spacy&logoColor=00F0FF&labelColor=05060f)
-![OpenAI](https://img.shields.io/badge/OpenAI_APIs-05060f?style=for-the-badge&logo=openai&logoColor=0AFF9D&labelColor=05060f)
-![Claude](https://img.shields.io/badge/Claude-05060f?style=for-the-badge&logo=anthropic&logoColor=FF00E5&labelColor=05060f)
-![Ollama](https://img.shields.io/badge/Ollama-05060f?style=for-the-badge&logo=ollama&logoColor=00F0FF&labelColor=05060f)
+⚙️ ProcureIQ Atlas
+Procurement Intelligence
 
-`LLMs` `Generative AI` `Agentic AI` `AI Agents` `RAG` `NLP` `Embeddings` `Vector Search` `Computer Vision` `Model Evaluation` `Prompt Engineering` `AI Agent Orchestration` `OpenRouter` `NVIDIA AI`
+An AI-powered procurement workflow concept covering supplier discovery, specification extraction, quote comparison, RFQ management, order tracking, quality control, and delivery.
 
-### ▸ Frontend Engineering
-![React](https://img.shields.io/badge/React-05060f?style=for-the-badge&logo=react&logoColor=00F0FF&labelColor=05060f)
-![Next.js](https://img.shields.io/badge/Next.js-05060f?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=05060f)
-![HTML5](https://img.shields.io/badge/HTML5-05060f?style=for-the-badge&logo=html5&logoColor=FF00E5&labelColor=05060f)
-![CSS3](https://img.shields.io/badge/CSS3-05060f?style=for-the-badge&logo=css3&logoColor=00F0FF&labelColor=05060f)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-05060f?style=for-the-badge&logo=tailwindcss&logoColor=0AFF9D&labelColor=05060f)
+AI Workflows Supplier Intelligence Process Automation
+</td>
+</tr>
+</table>
 
-**Focus:** `Responsive Interfaces` `Component Architecture` `Vite` `TypeScript`
+</div>
 
-### ▸ Backend & API Engineering
-![FastAPI](https://img.shields.io/badge/FastAPI-05060f?style=for-the-badge&logo=fastapi&logoColor=0AFF9D&labelColor=05060f)
-![Node.js](https://img.shields.io/badge/Node.js-05060f?style=for-the-badge&logo=nodedotjs&logoColor=0AFF9D&labelColor=05060f)
-![Express](https://img.shields.io/badge/Express-05060f?style=for-the-badge&logo=express&logoColor=white&labelColor=05060f)
-![PHP](https://img.shields.io/badge/PHP-05060f?style=for-the-badge&logo=php&logoColor=FF00E5&labelColor=05060f)
+Other explorations
+Initiative	Focus
+CommerceReady AI	E-commerce compliance, AI search visibility, competitor intelligence, and autonomous shopping workflows
+QuantyNex	AI agents and AI-native products
+Nexus Aegis	Intelligent security monitoring and automated response
 
-**Focus:** `REST APIs` `API Integration` `Authentication` `Backend Architecture` `Asynchronous Processing`
 
-### ▸ Databases & Data Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05060f?style=for-the-badge&logo=postgresql&logoColor=00F0FF&labelColor=05060f)
-![MySQL](https://img.shields.io/badge/MySQL-05060f?style=for-the-badge&logo=mysql&logoColor=00F0FF&labelColor=05060f)
-![MongoDB](https://img.shields.io/badge/MongoDB-05060f?style=for-the-badge&logo=mongodb&logoColor=0AFF9D&labelColor=05060f)
-![Redis](https://img.shields.io/badge/Redis-05060f?style=for-the-badge&logo=redis&logoColor=FF00E5&labelColor=05060f)
-![Prisma](https://img.shields.io/badge/Prisma-05060f?style=for-the-badge&logo=prisma&logoColor=white&labelColor=05060f)
+Technology toolkit
+AI, machine learning & data
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy" />
+  <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLMs-0F766E?style=flat-square" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-1D4ED8?style=flat-square" alt="Agentic AI" />
+</p>
 
-**Focus:** `Data Modeling` `ORM` `Caching` `Job Queues` `BullMQ` `Database Design`
+Languages & application development
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express" />
+</p>
 
-### ▸ Cloud, DevOps & Developer Tools
-![AWS](https://img.shields.io/badge/AWS-05060f?style=for-the-badge&logo=amazonwebservices&logoColor=FF00E5&labelColor=05060f)
-![Docker](https://img.shields.io/badge/Docker-05060f?style=for-the-badge&logo=docker&logoColor=00F0FF&labelColor=05060f)
-![Linux](https://img.shields.io/badge/Linux-05060f?style=for-the-badge&logo=linux&logoColor=0AFF9D&labelColor=05060f)
-![Git](https://img.shields.io/badge/Git-05060f?style=for-the-badge&logo=git&logoColor=FF00E5&labelColor=05060f)
-![GitHub](https://img.shields.io/badge/GitHub-05060f?style=for-the-badge&logo=github&logoColor=white&labelColor=05060f)
-![Vercel](https://img.shields.io/badge/Vercel-05060f?style=for-the-badge&logo=vercel&logoColor=white&labelColor=05060f)
+Databases, cloud & tools
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-**Focus:** `AWS Services` `Docker` `Linux` `CI/CD` `Deployment` `Environment Management`
+Additional interests: API design · vector search · embeddings · model evaluation · AI orchestration · runtime enforcement · model monitoring · CI/CD
+How I approach engineering
+Build systems, not just demos.
+Evaluate intelligence, not just outputs.
+Design for reliability, security, and scale.
+Turn complex AI capabilities into useful products.
+Keep learning, questioning, and shipping.
 
-### ▸ AI Security & MLOps
-`Behavioral Analysis` `Risk Scoring` `Runtime Interception` `Threat Intelligence` `Model Evaluation` `Model Monitoring` `AI Governance` `Automated Response`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00E5&height=40&section=header&animation=fadeIn" width="100%" alt=""/>
-
-## `06` // ENGINEERING PRINCIPLES
-
-```text
-01. Build systems, not just demos.
-02. Evaluate intelligence, not just outputs.
-03. Design for reliability, security, and scale.
-04. Turn complex AI capabilities into useful products.
-05. Keep learning. Keep questioning. Keep shipping.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:0AFF9D&height=40&section=header&animation=fadeIn" width="100%" alt=""/>
-
-## `07` // ESTABLISH CONNECTION
-
-Interested in AI engineering, agentic systems, AI security, research collaborations, and ambitious product ideas.
-
+Let's connect
+I'm interested in AI engineering, agentic systems, AI security, research collaborations, and ambitious product ideas.
 <div align="center">
 
 <a href="https://github.com/Daaksh05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=0AFF9D&background=05060F&center=true&vCenter=true&width=600&height=45&lines=%3E+Let's+build+something+intelligent._" alt="cta"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Daaksh05-00F0FF?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=05060f)](https://github.com/Daaksh05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF00E5?style=for-the-badge&logo=linkedin&logoColor=FF00E5&labelColor=05060f)](https://www.linkedin.com/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0AFF9D,100:FF00E5&height=120&section=footer&text=Building%20AI%20systems%20that%20think%2C%20act%2C%20and%20ship.&fontSize=18&fontColor=05060f&animation=twinkling&fontAlignY=70" width="100%" alt="footer"/>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=footer&text=Build%20thoughtfully.%20Ship%20responsibly.&fontSize=20&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Build thoughtfully. Ship responsibly." />
 
 </div>
