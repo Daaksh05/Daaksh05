@@ -86,6 +86,31 @@ An AI-powered procurement workflow concept covering supplier discovery, specific
 AI Workflows Supplier Intelligence Process Automation
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+⚡ QuantyNex
+AI-Native Products & Agentic Systems
+
+A major product initiative focused on building AI-powered products and agent-based solutions, with a focus on turning emerging AI capabilities into practical systems.
+
+AI Agents AI Products Product Strategy
+</td>
+<td width="50%" valign="top">
+
+🛡️ Aegis Nexus
+Open-Source AI Safety Platform
+
+A modular AI safety platform exploring safety evaluation, agentic risk analysis, runtime monitoring, and verifiable integrity. The repository describes components including DeceptionShield, AgentForge, and EvalForge.
+
+AI Safety Agentic Systems Evaluation Security
+
+<a href="https://github.com/Daaksh05/aegis-nexus">
+  <img src="https://img.shields.io/badge/Explore%20Repository-View%20on%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Aegis Nexus repository" />
+</a>
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -94,9 +119,14 @@ Other explorations
 Initiative	Focus
 CommerceReady AI	E-commerce compliance, AI search visibility, competitor intelligence, and autonomous shopping workflows
 QuantyNex	AI agents and AI-native products
-Nexus Aegis	Intelligent security monitoring and automated response
+Aegis Nexus	Open-source AI safety, agent evaluation, and runtime risk monitoring
 
 
+Major initiatives
+⚡ QuantyNex
+QuantyNex is a key part of my product-building journey, centered on AI agents and AI-native products. The goal is to explore how intelligent systems can become useful, real-world products rather than isolated demos.
+🛡️ Aegis Nexus
+Aegis Nexus is an open-source AI safety platform focused on modular safety evaluation and agentic-system safeguards. Its described areas include DeceptionShield for probing and containment, AgentForge for multi-step agent risk, and EvalForge for configurable evaluations. The repository also explores verifiable integrity and runtime monitoring.
 Technology toolkit
 AI, machine learning & data
 <p>
