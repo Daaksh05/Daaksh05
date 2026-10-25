@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Daakshayani Neelamegam Senthilkumar — AI Systems Engineer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,50:0AFF9D,100:FF00E5&height=260&section=header&text=DAAKSHAYANI%20SENTHILKUMAR&fontSize=44&fontColor=05060f&animation=twinkling&fontAlignY=38&desc=AI%20SYSTEMS%20ENGINEER%20%2F%2F%20AI%20PRODUCT%20BUILDER&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
 <a href="https://github.com/Daaksh05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=760&lines=%3E+initializing+agentic+AI+systems...;%3E+securing+LLM+agents+at+runtime...;%3E+shipping+production-grade+AI+products...;%3E+Paris%2C+France+%7C+MSc+AI+Systems+%40+EPITA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F0FF&background=05060F&center=true&vCenter=true&width=800&height=50&lines=%3E+initializing+agentic+AI+systems...;%3E+securing+LLM+agents+at+runtime...;%3E+shipping+production-grade+AI+products...;%3E+Paris%2C+France+%7C+MSc+AI+Systems+%40+EPITA" alt="typing"/>
 </a>
 
-<br/>
+<br/><br/>
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-0AFF9D?style=for-the-badge&labelColor=05060f)
 ![Location](https://img.shields.io/badge/LOC-PARIS%2C_FR-00F0FF?style=for-the-badge&labelColor=05060f)
@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00E5&height=40&section=header&animation=fadeIn" width="100%" alt=""/>
 
 ## `01` // SYSTEM OVERVIEW
 
@@ -39,7 +39,7 @@ focus:
 approach: "Understand → Build → Evaluate → Ship"
 ```
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=40&section=header&animation=fadeIn" width="100%" alt=""/>
 
 ## `02` // PRODUCT PORTFOLIO
 
@@ -78,7 +78,7 @@ An AI-powered procurement system designed to streamline supplier discovery, spec
 
 </details>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0AFF9D&height=40&section=header&animation=fadeIn" width="100%" alt=""/>
 
 ## `03` // CURRENT EXPLORATIONS
 
@@ -87,7 +87,7 @@ An AI-powered procurement system designed to streamline supplier discovery, spec
 | ⚡ **QuantyNex** | AI agents and AI-native products |
 | 🛡️ **Nexus Aegis** | Intelligent security monitoring and automated response |
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AFF9D,100:FF00E5&height=40&section=header&animation=fadeIn" width="100%" alt=""/>
 
 ## `04` // FEATURED AI SYSTEMS
 
@@ -137,17 +137,16 @@ An AI-powered industrial monitoring system combining visual evidence, machine se
 
 [![Repo](https://img.shields.io/badge/↗_VIEW_REPOSITORY-forgeguard--ai-FF00E5?style=for-the-badge&labelColor=05060f)](https://github.com/Daaksh05/forgeguard-ai)
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=40&section=header&animation=fadeIn" width="100%" alt=""/>
 
 ## `05` // TECHNOLOGY MATRIX
 
 ### ▸ Programming Languages
-![Python](https://img.shields.io/badge/Python-05060f?style=for-the-badge&logo=python&logoColor=00F0FF&color=05060f&labelColor=05060f)
+![Python](https://img.shields.io/badge/Python-05060f?style=for-the-badge&logo=python&logoColor=00F0FF&labelColor=05060f)
 ![Java](https://img.shields.io/badge/Java-05060f?style=for-the-badge&logo=openjdk&logoColor=00F0FF&labelColor=05060f)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05060f?style=for-the-badge&logo=javascript&logoColor=0AFF9D&labelColor=05060f)
 ![TypeScript](https://img.shields.io/badge/TypeScript-05060f?style=for-the-badge&logo=typescript&logoColor=00F0FF&labelColor=05060f)
 ![C](https://img.shields.io/badge/C-05060f?style=for-the-badge&logo=c&logoColor=FF00E5&labelColor=05060f)
-![C++](https://img.shields.io/badge/C++-05060f?style=for-the-badge&logo=cplusplus&logoColor=FF00E5&labelColor=05060f)
 
 ### ▸ AI, Machine Learning & Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-05060f?style=for-the-badge&logo=pytorch&logoColor=FF00E5&labelColor=05060f)
@@ -198,24 +197,9 @@ An AI-powered industrial monitoring system combining visual evidence, machine se
 ### ▸ AI Security & MLOps
 `Behavioral Analysis` `Risk Scoring` `Runtime Interception` `Threat Intelligence` `Model Evaluation` `Model Monitoring` `AI Governance` `Automated Response`
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00E5&height=40&section=header&animation=fadeIn" width="100%" alt=""/>
 
-## `06` // GITHUB TELEMETRY
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Daaksh05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05060f&title_color=00F0FF&icon_color=FF00E5&text_color=c9f7ff" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daaksh05&layout=compact&theme=tokyonight&hide_border=true&bg_color=05060f&title_color=00F0FF&text_color=c9f7ff" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daaksh05&theme=tokyonight&hide_border=true&background=05060f&ring=00F0FF&fire=FF00E5&currStreakLabel=0AFF9D" alt="GitHub streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Daaksh05&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## `07` // ENGINEERING PRINCIPLES
+## `06` // ENGINEERING PRINCIPLES
 
 ```text
 01. Build systems, not just demos.
@@ -225,15 +209,17 @@ An AI-powered industrial monitoring system combining visual evidence, machine se
 05. Keep learning. Keep questioning. Keep shipping.
 ```
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:0AFF9D&height=40&section=header&animation=fadeIn" width="100%" alt=""/>
 
-## `08` // ESTABLISH CONNECTION
+## `07` // ESTABLISH CONNECTION
 
 Interested in AI engineering, agentic systems, AI security, research collaborations, and ambitious product ideas.
 
 <div align="center">
 
-**`> Let's build something intelligent._`**
+<a href="https://github.com/Daaksh05">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=0AFF9D&background=05060F&center=true&vCenter=true&width=600&height=45&lines=%3E+Let's+build+something+intelligent._" alt="cta"/>
+</a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Daaksh05-00F0FF?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=05060f)](https://github.com/Daaksh05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF00E5?style=for-the-badge&logo=linkedin&logoColor=FF00E5&labelColor=05060f)](https://www.linkedin.com/)
